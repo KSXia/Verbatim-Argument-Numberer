@@ -1,5 +1,5 @@
-' ---Argument Numberer v1.0.0---
-' Created on 2024-08-15.
+' ---Argument Numberer v1.0.1---
+' Updated on 2024-08-21.
 ' https://github.com/KSXia/Verbatim-Argument-Numberer/
 ' Based on Verbatim 6.0.0's "AutoNumberTags" function.
 Sub NumberArguments()
