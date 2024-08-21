@@ -1,6 +1,6 @@
 ' Argument Numberer v1.0.0
-' https://github.com/KSXia/Verbatim-Argument-Numberer/
 ' Created on 2024-08-15.
+' https://github.com/KSXia/Verbatim-Argument-Numberer/
 ' Based on Verbatim 6.0.0's "AutoNumberTags" function.
 Sub NumberArguments()
 	Dim NumberPlaceholder as String
