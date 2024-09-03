@@ -1,4 +1,4 @@
-' ---Argument Numberer v1.0.2---
+' ---Argument Numberer v1.0.3---
 ' Updated on 2024-09-03.
 ' https://github.com/KSXia/Verbatim-Argument-Numberer/
 ' Based on Verbatim 6.0.0's "AutoNumberTags" function.
