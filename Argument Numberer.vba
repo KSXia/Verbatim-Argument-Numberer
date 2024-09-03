@@ -34,7 +34,7 @@ Sub NumberArguments()
 	
 	' ---PROCESS TO NUMBER ARGUMENTS---
 	' Loop through each paragraph and insert the number if the numbering template is present at the start of the paragraph.
-	' Reset the numbering on any specified larger heading
+	' Reset the numbering on any specified larger heading.
 	For Each p In ActiveDocument.Paragraphs
 		Select Case p.OutlineLevel
 			Case Is = 1
