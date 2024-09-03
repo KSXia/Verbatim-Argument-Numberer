@@ -1,4 +1,4 @@
-' ---Argument Numberer v1.0.2---
+' ---Argument Numberer v1.0.3---
 ' Updated on 2024-09-03.
 ' https://github.com/KSXia/Verbatim-Argument-Numberer/
 ' Based on Verbatim 6.0.0's "AutoNumberTags" function.
@@ -29,6 +29,7 @@ Sub NumberArguments()
 	Dim TemplateLength As Integer
 	TemplateLength = Len(TemplateToNumber)
 	
+	' The following code for numbering arguments is based on Verbatim 6.0.0's "Auto Number Tags" function.
 	Dim p As Paragraph
 	Dim CurrentArgumentNumber As Long
 	
@@ -72,4 +73,5 @@ Sub NumberArguments()
 				End If
 		End Select
 	Next p
+	' End of code based on Verbatim 6.0.0's functions.
 End Sub
